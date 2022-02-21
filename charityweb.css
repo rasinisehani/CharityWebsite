@@ -1,0 +1,31 @@
+ h1 {
+          font-size: 50px;
+        }
+
+        h2 {
+          font-size: 50px;
+          }
+
+          h3 {
+            font-size: 35px;
+          }
+
+          .box1 {
+            font-weight: bold;
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 15px;
+            box-sizing: border-box;
+            margin: 10px 0 15px 0;
+            background-color: white;
+            }
+
+            .box2 {
+              font-weight: bold;
+              padding: 10px;
+              border: none;
+              border-radius: 15px;
+              margin: 10px 0 15px 0;
+              background-color: white;
+              }
