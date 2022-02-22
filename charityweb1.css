@@ -1,16 +1,4 @@
- .btn {
-                width: 49%;
-                padding: 10px;
-                border: none;
-                border-radius: 15px;
-                background-color: #30475e;
-                font-size: 18px;
-                color: #fff;
-                text-decoration: none;
-                display: inline-block;
-                transition-duration: 0.4s;
-                cursor: pointer;
-              }
+
 
               .radio-inline {
                 margin: 0px 40px 20px 0px;
